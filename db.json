@@ -1,0 +1,239 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Cadê a chave?",
+      "cor": "#48D1CC",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Coisa de Nerd",
+      "cor": "#B8CAD4",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Republica de coisa de nerd",
+      "cor": "#1981CD",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Gambiarra a gente aceita",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Hora de Por Café",
+      "cor": "red"
+    },
+    {
+      "id": 6,
+      "titulo": "Jogos da Galera",
+      "cor": "#9400D3"
+    },
+    {
+      "id": 7,
+      "titulo": "Talento Supremo",
+      "cor": "orange"
+    },
+    {
+      "titulo": "teste",
+      "descricao": "oi",
+      "cor": "#0f855e",
+      "id": 8
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "SERÁ QUE ELE PASSA NUMA PROVA DE DIREÇÃO? FIZEMOS O TESTE - Ep. 1479",
+      "url": "https://www.youtube.com/watch?v=0_TLe_R0vPY"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "FOI UM ERRO? NÃO, FORAM VÁRIOS - Ep. 1478",
+      "url": "https://www.youtube.com/watch?v=Kyf1CCfGO3U"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "E ESSA HISTÓRIA DO TRUMP BANIR O TIK TOK? - Ep.1477",
+      "url": "https://www.youtube.com/watch?v=8S0EZdxsWr4"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Pare de chutar e aprenda a display: inline #01",
+      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "É OBRIGAÇÃO DELA! #FazAProvaNilce - Ep.1476",
+      "url": "https://www.youtube.com/watch?v=JB2HPHO7qgU"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "PASSANDO MAL DE TANTO COMER - Ep. 1475",
+      "url": "https://www.youtube.com/watch?v=LQ7DlnSSHrI"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "POR ESSA ELE NÃO ESPERAVA!- Ep.1474",
+      "url": "https://www.youtube.com/watch?v=OvBfj6gG1yI"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Encontrei o Melhor App para Estudo e Trabalho (GRÁTIS!) - Notion",
+      "url": "https://www.youtube.com/watch?v=5pM4ES-v6Ls"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "iPHONE COPIOU O ANDROID! - iOS 14",
+      "url": "https://www.youtube.com/watch?v=mOcupUQvBg0"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "OLHA ESSA BATERIA! - Galaxy M31",
+      "url": "https://www.youtube.com/watch?v=B5wuXnBcPro"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "MEU SETUP NOVO É UM SUCESSO!",
+      "url": "https://www.youtube.com/watch?v=oldTlO58iog"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "COLOQUEI LED EM CASA! - Smart Home 05",
+      "url": "https://www.youtube.com/watch?v=zu2Ws0EpQ2E"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "ABRINDO 100 CAIXAS SURPRESA DE UMA VEZ!",
+      "url": "https://www.youtube.com/watch?v=irrr8Z1dMRw"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "ASSUSTANDO UM TIGRE COM AS PRÓPRIAS MÃOS!?",
+      "url": "https://www.youtube.com/watch?v=XwtNWSQZFEU"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "TÁ CHOVENDO BERINJELA!!! - PROVAS DE QUE O MUNDO É SIMULADO",
+      "url": "https://www.youtube.com/watch?v=ywTOuBe7VOg"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Como ingressar no mercado de Data Science?",
+      "url": "https://www.youtube.com/watch?v=eCKswpHMsfg"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "SABÃO DE AÇO!?!? - GAGA (Ep. 57)",
+      "url": "https://www.youtube.com/watch?v=NGWNKa0pgok"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "O PIOR DESPERTADOR DO MUNDO!!! - GAGA (Ep. 56)",
+      "url": "https://www.youtube.com/watch?v=DK-qiVI8TTw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Emagreça Jogando Video Game! - GAGA (Ep. 55)",
+      "url": "https://www.youtube.com/watch?v=xe9UJ4ucJ_Q"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "POR QUE ISSO É TÃO CARO? - GAGA (Ep. 54)",
+      "url": "https://www.youtube.com/watch?v=E_IdH8jXNx8"
+    },
+    {
+      "id": 21,
+      "categoriaId": 6,
+      "titulo": "É ELA QUEM MANDA! - Jogos da Nilce?",
+      "url": "https://www.youtube.com/watch?v=zDLBFto8hr0"
+    },
+    {
+      "id": 22,
+      "categoriaId": 6,
+      "titulo": "COISA DE CEGO! - Jogos da Galera(parte 2)",
+      "url": "https://www.youtube.com/watch?v=Wp1ikED9mUo"
+    },
+    {
+      "id": 23,
+      "categoriaId": 6,
+      "titulo": "MESTRE DO UNIVERSO! - Jogos da Galera (Parte 03)",
+      "url": "https://www.youtube.com/watch?v=VqyzTB8FoWU"
+    },
+    {
+      "id": 24,
+      "categoriaId": 6,
+      "titulo": "A VIDA E MORTE DE ASTROGILDO! - Jogos da Galera (Parte 04)",
+      "url": "https://www.youtube.com/watch?v=OiIpj_tjjk0"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "QUE COR É ESSA? - Jogos da Galera (Parte 05)",
+      "url": "https://www.youtube.com/watch?v=921cpkrhv_U&https://www.youtube.com/watch?v=nCBwUjIn0Ao"
+    },
+    {
+      "id": 26,
+      "categoriaId": 7,
+      "titulo": "O TALENTO SUPREMO - Ep.458",
+      "url": "https://www.youtube.com/watch?v=bkoEqVw6Kq0"
+    },
+    {
+      "id": 27,
+      "categoriaId": 7,
+      "titulo": "TALENTO SUPREMO: BOLO DE BANANA E AVEIA -Ep.509",
+      "url": "https://www.youtube.com/watch?v=nCBwUjIn0Ao"
+    },
+    {
+      "titulo": "CHEGOU A HORA! - Hora de Por Café (Parte 01)",
+      "url": "https://www.youtube.com/watch?v=pfJJGjRSeRA",
+      "categoriaId": 5,
+      "id": 28
+    },
+    {
+      "titulo": "ELA VOLTOU! - Hora de Por Café (Parte 02)",
+      "url": "https://www.youtube.com/watch?v=_39asIutG1s",
+      "categoriaId": 5,
+      "id": 29
+    },
+    {
+      "titulo": "teste",
+      "url": "https://www.youtube.com/watch?v=_39asIutG1s",
+      "categoriaId": 8,
+      "id": 30
+    }
+  ]
+}
